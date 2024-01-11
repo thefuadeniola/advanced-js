@@ -1,0 +1,1 @@
+// Classes allow us to provide the blueprint for objects. They make the creation of multiple similar objects easier.
